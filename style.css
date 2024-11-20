@@ -35,13 +35,13 @@ body
 #logoright
 {
 	float:right;
-	width:180px;
+	width:100px;
 	display:inline;
 	position:relative;
-	top:65px;
+	top:60px;
 	right:5px;
 	font-family:Times New Roman;
-	font-size:13px;
+	font-size:18px;
 }
 
 h2

@@ -6,7 +6,7 @@ body
 
 #page
 {
-	width:1060px;
+	width:1070px;
 	background:#DCDCDC;
 	margin:0 auto;
 	padding:0px;
@@ -15,7 +15,7 @@ body
 
 #logo
 {
-	width:860px;
+	width:1070px;
 	height:85px;
 	background:#fff;
 	text-align:left;
@@ -164,7 +164,7 @@ p
 #rightside
 {
 	float:right;
-	width:810px;
+	width:815px;
 	margin:0px 0px 0px 0px;
 	display:inline;
 	padding:0px;
@@ -175,7 +175,7 @@ p
 #content
 {
 	float:right;
-	width:810px;
+	width:812px;
 	background:#fff;
 	padding:10px;
 	border:1px solid #DCDCDC;
